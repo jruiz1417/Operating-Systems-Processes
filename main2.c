@@ -1,7 +1,7 @@
 #include  <stdio.h>
 #include  <sys/types.h>
 #include <stdlib.h>
-
+//Jose Ruiz
 #define   MAX_COUNT  2
 
 void  ChildProcess(int);    /* child process prototype  */

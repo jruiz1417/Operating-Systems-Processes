@@ -7,4 +7,4 @@ prog2: main2.c
 all: prog1 prog2
 	gcc -o main.c main2.c
 
-
+\*Jose Ruiz *\
